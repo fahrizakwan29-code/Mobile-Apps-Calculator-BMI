@@ -117,18 +117,6 @@ Halaman profil pengguna untuk memantau perkembangan kesehatan dan target berat b
 
 ---
 
-# 📌 Catatan Penting
-
-* Gunakan `%20` untuk spasi pada nama file gambar agar tidak error di GitHub
-* Pastikan semua file gambar sudah di-upload ke repository
-* Contoh:
-
-```bash
-git add .
-git commit -m "add project images"
-git push
-```
-
 ---
 
 # 📂 Struktur Folder (Rekomendasi)
@@ -151,16 +139,6 @@ BMI-Calculator-App/
 
 ---
 
-# 💡 Tips
-
-Kalau ingin lebih rapi, pindahkan semua gambar ke folder `images/`, lalu ubah format gambar menjadi:
-
-```md
-![Splash](images/loading-page.png)
-```
-
----
-
 # 🎯 Tujuan Aplikasi
 
 Aplikasi ini dibuat untuk membantu pengguna:
@@ -175,7 +153,7 @@ Aplikasi ini dibuat untuk membantu pengguna:
 
 # 👨‍💻 Developer
 
-Developed by **Your Name**
+Developed by **Fahri Alzakwan**
 
 ---
 
