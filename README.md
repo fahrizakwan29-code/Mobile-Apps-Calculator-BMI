@@ -34,7 +34,7 @@ BMI Calculator adalah aplikasi fitness digital dengan tampilan futuristik dark m
 
 Tampilan awal saat aplikasi dibuka.
 
-![Splash Screen](loading%20page%20jpg\(1\).png)
+![Splash Screen](images/splash-screen.png)
 
 ---
 
@@ -42,7 +42,7 @@ Tampilan awal saat aplikasi dibuka.
 
 Halaman autentikasi pengguna sebelum masuk ke aplikasi.
 
-![Login](proses%20registrasi\(1\).png)
+![Login](images/login-page.png)
 
 ---
 
